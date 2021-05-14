@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology"
-     xml:base="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/lucvaladares/GeoCoreOntology/master/GeoCoreOntology.owl"
+     xml:base="https://raw.githubusercontent.com/lucvaladares/GeoCoreOntology/master/GeoCoreOntology.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
