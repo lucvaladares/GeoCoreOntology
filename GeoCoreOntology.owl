@@ -66,6 +66,22 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/BFO_0000121 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000121">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000139 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000139">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    </rdf:Description>
+    
+
+
     <!-- https://raw.githubusercontent.com/lucvaladares/GeoCoreOntology/master/GeoCoreOntology.owl#UFRGS_GCO_age_of -->
 
     <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/lucvaladares/GeoCoreOntology/master/GeoCoreOntology.owl#UFRGS_GCO_age_of">
